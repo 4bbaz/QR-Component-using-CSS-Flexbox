@@ -38,7 +38,7 @@ This is my solution to the "QR component main" challenge from Frontend Mentor
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) - This is an amazing article which helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
