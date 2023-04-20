@@ -17,10 +17,12 @@ This is my solution to the "QR component main" challenge from Frontend Mentor
 
 ## Overview
 
-### Screenshot
+###Screenshot
+### mobile
+![mobile](Screenshots/Mobile.png)
 
-![mobile](screenshots/Mobile.jpg)
-![Desktop](screenshots/Mobile.jpg)
+### Desktop
+![Desktop](Screenshots/Desktop.png)
 
 
 
